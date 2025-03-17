@@ -8,7 +8,7 @@ Welcome to **Data-Viz**, a collection of interactive and static visualizations c
 ## 🔗 Live Visualizations
 Explore the interactive visualizations hosted on GitHub Pages:
 
-- 🏷️ **LDA Topic Modeling Visualization** → [View Here](https://yusuf-abol.github.io/projects-data-interactive-viz-hub/lda.html)
+- 🏷️ **LDA Topic Modeling Visualization** → [View Here](https://yusuf-abol.github.io/projects-data-interactive-viz-hub/lda_visualization.html)
 - 📉 (Add more visualizations as you build them...)
 
 ---
